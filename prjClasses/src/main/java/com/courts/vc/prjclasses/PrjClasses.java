@@ -11,6 +11,6 @@ package com.courts.vc.prjclasses;
 public class PrjClasses {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World! I just did github and hate reece now :) ");
     }
 }
